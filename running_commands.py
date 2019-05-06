@@ -10,5 +10,6 @@ else:
     print s.before     # print everything before the prompt.
     s.logout()
     
+#Note:
 #We can also execute multiple command like this:
-s.sendline ('uptime;df -h')
+#s.sendline ('uptime;df -h')
