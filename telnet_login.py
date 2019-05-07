@@ -2,7 +2,7 @@ import sys
 import telnetlib
 import time
 
-password = "cisco123"
+password = "vinod123"
 command = "show interface status"
 
 ##with open ("list.txt", "r") as devicelist:
